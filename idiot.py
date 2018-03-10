@@ -6,3 +6,4 @@ if int(a) == 8 :
 else :
 	print("틀리셨습니다.")
 print("미개한것들")
+print("2018-03-10")
